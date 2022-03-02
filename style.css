@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    
+  }
+  body{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: #51b4b8;
+    }
+    .pont{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+  h3{
+    padding: 20px;
+  }
+    .tabuleiro {
+        display: flex;
+        flex-wrap: wrap;
+        width: 450px;
+        height: 10px;
+     }
+  img{
+    
+    padding: 10px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+  }
